@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# project
+
+app/reviews/*.*
+app/statics/plots/*.*
